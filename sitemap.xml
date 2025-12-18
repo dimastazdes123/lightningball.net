@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lightningball.net/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/"/>
+  </url>
+  <url>
+    <loc>https://lightningball.net/terms/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/terms/"/>
+  </url>
+  <url>
+    <loc>https://lightningball.net/responsible/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/responsible/"/>
+  </url>
+  <url>
+    <loc>https://lightningball.net/privacy/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lightningball.net/cookie/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/cookie/"/>
+  </url>
+  <url>
+    <loc>https://lightningball.net/about/</loc>
+    <lastmod>2025-12-16T13:41:26.025Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lightningball.net/about/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://lightningball.net/about/"/>
+  </url>
+</urlset>
